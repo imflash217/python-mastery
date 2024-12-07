@@ -43,10 +43,10 @@ presentation slides. Course exercises and suggested timings are
 clearly indicated. You'll want to keep this by your side (I recommend
 downloading and viewing it with a local PDF viewer). Start here!
 
-The [Exercises/](Exercises/index.md) directory has all of the
+The [Exercises/](problems/Exercises/index.md) directory has all of the
 course exercises.
 
-The [Solutions/](Solutions/) directory has fully worked out solution code.
+The [Solutions/](problems/Solutions/) directory has fully worked out solution code.
 
 The [Data/](Data/) directory has some datafiles used during the course.
 
