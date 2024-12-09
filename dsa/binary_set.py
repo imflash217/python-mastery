@@ -11,7 +11,7 @@ class Set:
         return idx < len(self) and self._elements[idx] == value
 
     def __eq__(self, other) -> bool:
-        assert type(self) == type(other)
+        assert type(self) is type(other)
         if len(self) != len(other):
             return False
         # return self.is_subset_of(other) # Takes O(n*log_n) time
